@@ -16,7 +16,8 @@ worker最大活跃任务数
 DoubanTop250Task  
 DoubanTop250TaskDispatcher
 2. 实现  
-com.rjay.wspider.service.task.Task com.rjay.wspider.service.task.TaskDispatcher
+com.rjay.wspider.service.task.Task  
+com.rjay.wspider.service.task.TaskDispatcher
 
 ## 本机模式启动
 spider.standalone=true  
