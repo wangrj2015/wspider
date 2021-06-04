@@ -22,7 +22,7 @@
         <start-class>com.rjay.wspider.AppMain</start-class>
 
         <httpcore-version>4.4</httpcore-version>
-        <httpclient-version>4.5.9</httpclient-version>
+        <httpclient-version>4.5.13</httpclient-version>
         <zk-client-version>0.8</zk-client-version>
         <curator-version>2.9.0</curator-version>
         <zookeeper-version>3.4.8</zookeeper-version>
